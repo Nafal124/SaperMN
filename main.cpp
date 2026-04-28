@@ -1,5 +1,6 @@
 #include <cassert>
 #include <ctime>
+#include <stdlib.h>
 
 #include "TESTY.h"
 #include "FULLGAME.h"
